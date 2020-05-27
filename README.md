@@ -1,5 +1,5 @@
 # question-categorization-classifier
-It is a question categorization classifier to differentiate different categorize of question, the test data set is provided, just mold your data set according to the example files and you are good to go
+It is a question categorization classifier to differentiate different categorize of questions, the test data set is provided, just mold your data set according to the example files and you are good to go
 
 It uses logistic regression model for the natural language processing,the LR model is one of the most better performed model specially when it comes to NLP.
 
